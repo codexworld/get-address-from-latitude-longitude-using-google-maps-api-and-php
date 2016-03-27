@@ -3,7 +3,8 @@
 * Author: CodexWorld
 * Author URI: http://www.codexworld.com
 * Function Name: getAddress()
-* $address => Full address.
+* $latitude => Latitude.
+* $longitude => Longitude.
 * Return =>  Address of the given Latitude and longitude.
 **/
 function getAddress($latitude,$longitude){
